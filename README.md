@@ -1,2 +1,2 @@
 # GameOfLife
-An equilibrium of life and death, developed by Ching Lam Choi and Marcus Pang.
+An equilibrium of life and death, developed by Ching Lam Choi, Marcus Pang.
